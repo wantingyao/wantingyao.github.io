@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Welcome to Wanting's Webpage! # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Wanting
 middle_name:
 last_name: Yao
@@ -149,6 +149,10 @@ collections:
     output: true
   projects:
     output: false
+  awards:
+    defaults:
+      layout: post
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
