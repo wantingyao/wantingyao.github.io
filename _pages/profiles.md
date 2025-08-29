@@ -11,12 +11,9 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: wantingyao.jpg
-    content: about_einstein.md
+    content: 
     image_circular: false # crops the image to make it circular
-    more_info: >
-      # # <p>555 your office number</p>
-      # # <p>123 your address street</p>
-      # <p>Philadelphia, USA</p>
+    more_info: 
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
