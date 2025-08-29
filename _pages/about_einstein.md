@@ -4,7 +4,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-
 Hi there!
 
 I'm a first-year robotics master student in [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania. Previously, I worked with [Prof. Yanchao Yang](https://yanchaoyang.github.io/) at University of Hong Kong as an undergrad research intern. I received my Bachelor's degree in Automation with the honor of "Outstanding Graduate" from Zhejiang University in 2025.
