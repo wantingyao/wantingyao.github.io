@@ -372,7 +372,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "awards-outstanding-graduate-of-zhejiang-province-issued-by-department-of-education-of-zhejiang-province-2025-national-scholarship-issued-by-the-ministry-of-education-of-prc-2024-first-prize-scholarship-issued-by-zhejiang-university-2022-2024",
+          title: 'Outstanding Graduate of Zhejiang Province issued by Department of Education of Zhejiang Province,...',
+          description: "",
+          section: "Awards",},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
@@ -447,21 +450,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/alkaneyao@outlook.com", "_blank");
+          window.open("https://www.linkedin.com/in/wantingyao", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/alkaneyao", "_blank");
         },
       },{
       id: 'light-theme',
